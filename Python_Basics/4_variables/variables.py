@@ -15,7 +15,6 @@ e = [1, 2, 3, 4, 5]
 e[1:]
 f = ['Wang', 25, 'China']
 e[0] = 10
-e
 
 # Tuple (imutable)
 g = (1, 2, 3, 4, 5)
